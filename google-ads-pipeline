@@ -1,0 +1,13 @@
+google-ads-pipeline/
+│
+├── config/
+│   └── google_ads.yaml  # Contains API keys and configuration
+│
+├── src/
+│   ├── main.py          # Main script for data extraction
+│   ├── google_ads_api.py  # Script to handle Google Ads API calls
+│   ├── data_pipeline.py  # Data pipeline orchestration logic
+│   └── utils.py         # Utility functions
+│
+├── requirements.txt     # Dependencies
+└── README.md            # Project overview and setup instructions
