@@ -1,0 +1,11 @@
+
+---
+
+### Domain Breakdown
+
+1. **Authentication and Authorization**: Connecting to the Google Ads API using OAuth2.
+2. **Data Extraction**: Extracting campaign data from Google Ads.
+3. **Data Processing**: Processing and saving the extracted data.
+4. **Pipeline Orchestration**: Coordinating different steps like authentication, data retrieval, and data saving.
+
+This project setup should give you a complete framework to extract data from Google Ads Manager using Python and Git. Let me know if you need help with any specific step!
